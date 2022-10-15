@@ -1,0 +1,128 @@
+* {margin: 0;
+  padding: 0;
+  box-sizing: border-box;}
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  html {scroll-behavior: smooth;}
+
+  .navbar-brand {display: flex;
+    justify-content: space-around;}
+
+    .container-fluid{margin: 0 50px 0 50px ;}
+
+.aforism{font-style: italic;
+  font-size: 25px;
+  text-align: left;
+  margin-top: 80px;
+  color: white;}
+
+  a:link {color: greenyellow;
+    text-decoration: none;}
+    
+    a:visited{color: red;}
+    
+    a:hover {color: pink;
+    text-decoration: underline;}
+    
+    a:active {color: yellow;}
+
+    .skills{display: flex;
+    justify-content: space-around;}
+
+    .form-row{border: 1px solid;
+    background-color: rgba(181, 203, 203, 0.816);}
+
+    .name-surname{display: flex;
+    justify-content: center;}
+
+    .form button{font-size: 15px;
+      font-weight: bold;
+      color: white; background-color: greenyellow; border:none;
+      border-radius: 100px; padding: 10px 30px; cursor: pointer;
+      margin: 20px 0 30px;}
+
+      .footer{background-color: dodgerblue;
+        padding: 40px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-around;}
+
+        .menu-container {color: #fff;
+          background-color: #5995DA;  /* Blue */
+          padding: 20px 0;
+          display: flex;
+          justify-content: center;}
+          
+          .menu {width: 900px;
+          display: flex;
+          justify-content: space-between;}
+          
+
+          .dropbtn {
+            background-color: #5995DA;
+            color: white;
+            font-size: 20px;
+            border: none;
+          }
+          
+
+            .dropdown {
+              position: relative;
+              display: inline-block;}
+
+              .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: white;
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                z-index: 1;
+              }
+
+              .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+              }
+
+              
+.dropdown-content a:hover {background-color: pink;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: cyan;}
+
+/*Curriculum */
+
+.phrase{background-color: yellow;
+  font-style: italic;
+  font-size: 20px;
+  padding: 70px;
+  text-align: left;
+  display: flex;
+  justify-content: center;}
+  
+  .title-certificates{font-size: 20px;
+  padding: 20px;}
+  
+  .google {margin-top: 30px;
+  text-align: center;}
+
+  /*Job*/
+
+  .aphorism {background-color: lightgreen;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;}
+    
+    .screenshot{text-align: center;}
+         
+      
+   
+
+    
